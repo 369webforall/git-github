@@ -10,7 +10,7 @@ Learn complete Git and Github
 - git --version
 - make sure the git is installed correctly
 
-## Next step set your config by setting your name and email
+## Next step - set your config file by setting your name and email
 
 - [Article](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/The-global-Git-config-files-key-settings-and-usages#:~:text=How%20to%20do%20a%20git,It's%20that%20easy.) - Git Config
 

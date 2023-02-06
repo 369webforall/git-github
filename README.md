@@ -29,7 +29,10 @@ Set your email address:
 
 git config --global user.email "robert123@gmail.com"
 
+Now u can check
+
 Note: your directly also change the config file using below command
+
 
 git config --global edit
 

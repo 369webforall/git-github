@@ -2,6 +2,8 @@
 
 - [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
 
+- [Git & GitHub](https://www.youtube.com/watch?v=hrTQipWp6co)
+
 - [The Odin project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
 # Learn Git and Github

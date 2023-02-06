@@ -50,15 +50,27 @@ git config --global edit
 
 ## commands to add
 
-- git add filename
+- (git add) filename
   or
-- git add . // adds all the changes
-- git status // to check the status
-- git commit -m "initial commit" to commit the change to git resporistary. add the resonable message about the file and changes
+- (git add .) // adds all the changes
+- (git status) // to check the status
+- (git commit -m "initial commit") to commit the change to git resporistary. add the resonable message about the file and changes
 
-- git log // to check how may commit done previously
+- (git log) // to check how may commit done previously
 
-- git status // to check the status of the file
+- to create branch
+  (git branch feature)
+
+- To switch to branch
+  (git checkout feature)
+
+or
+
+- you can use single command to crete branch and switch to the branch
+  (git checkout -b feature2)
+
+- switch to parent branch and use below command to merge the feature branch
+  (git merge feature2)
 
 ## how to create branch and switch to different branch
 

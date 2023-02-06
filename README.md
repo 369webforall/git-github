@@ -59,18 +59,19 @@ git config --global edit
 - (git log) // to check how may commit done previously
 
 - to create branch
-  (git branch feature)
+- (git branch feature)
 
 - To switch to branch
-  (git checkout feature)
+- (git checkout feature)
 
 or
 
 - you can use single command to crete branch and switch to the branch
-  (git checkout -b feature2)
+
+  - (git checkout -b feature2)
 
 - switch to parent branch and use below command to merge the feature branch
-  (git merge feature2)
+- (git merge feature2)
 
 ## how to create branch and switch to different branch
 

@@ -83,3 +83,24 @@ or
 create different feature branches as you progress in your project. commit regularly.
 
 ![git-branch](/image/github-flow.jpg)
+
+# Generating SSh key
+
+[Document](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?tool=webui)
+
+### command to generate SSH key
+
+- open your Window PoweSheel as administrator
+- use your github email id
+
+- ssh-keygen -t ed25519 -C "your_email@example.com"
+
+- to copy the SSH key
+
+- cat ~/.ssh/id_ed25519.pub | clip
+
+- go to github setting SSH and GPG keys
+- Click new SSH key
+- give title
+- paste the key in box
+- click on add SSH button

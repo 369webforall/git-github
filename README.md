@@ -1,3 +1,9 @@
+# Foundation course
+
+- [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
+
+- [The Odin project](https://www.theodinproject.com/paths/foundations/courses/foundations)
+
 # Learn Git and Github
 
 Learn complete Git and Github

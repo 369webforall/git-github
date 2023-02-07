@@ -1,10 +1,10 @@
 # Foundation course
 
-- [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
+- video Link [Git & GitHub](https://www.youtube.com/watch?v=hrTQipWp6co){:target="\_blank"}
 
-- [Git & GitHub](https://www.youtube.com/watch?v=hrTQipWp6co)
+- video Link [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.com/watch?v=8Dd7KRpKeaE){:target="\_blank"}
 
-- [The Odin project](https://www.theodinproject.com/paths/foundations/courses/foundations)
+- Article [The Odin project](https://www.theodinproject.com/paths/foundations/courses/foundations){:target="\_blank"}
 
 # Learn Git and Github
 
@@ -12,7 +12,7 @@ Learn complete Git and Github
 
 ## Installation of git
 
-[GIT](https://git-scm.com/downloads)
+[GIT](https://git-scm.com/downloads){:target="\_blank"}
 
 - Once the git is install go to your terminal
 - git --version
@@ -20,7 +20,7 @@ Learn complete Git and Github
 
 ## Next step - set your config file by setting your name and email
 
-- [Article](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/The-global-Git-config-files-key-settings-and-usages#:~:text=How%20to%20do%20a%20git,It's%20that%20easy.) - Git Config
+- [Article Git config](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/The-global-Git-config-files-key-settings-and-usages#:~:text=How%20to%20do%20a%20git,It's%20that%20easy.){:target="\_blank"}
 
 ```
 Set your username:
@@ -88,7 +88,7 @@ create different feature branches as you progress in your project. commit regula
 
 # Generating SSh key
 
-[Document](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?tool=webui)
+[Document](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?tool=webui){:target="\_blank"}
 
 ### command to generate SSH key
 

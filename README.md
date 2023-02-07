@@ -1,10 +1,10 @@
 # Foundation course
 
-- video Link [Git & GitHub](https://www.youtube.com/watch?v=hrTQipWp6co){:target="\_blank"}
+- video Link: [Git & GitHub](https://www.youtube.com/watch?v=hrTQipWp6co){:target="\_blank"}
 
-- video Link [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.com/watch?v=8Dd7KRpKeaE){:target="\_blank"}
+- video Link: [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.com/watch?v=8Dd7KRpKeaE){:target="\_blank"}
 
-- Article [The Odin project](https://www.theodinproject.com/paths/foundations/courses/foundations){:target="\_blank"}
+- Article: [The Odin project](https://www.theodinproject.com/paths/foundations/courses/foundations){:target="\_blank"}
 
 # Learn Git and Github
 
@@ -12,7 +12,7 @@ Learn complete Git and Github
 
 ## Installation of git
 
-[GIT](https://git-scm.com/downloads){:target="\_blank"}
+- Download: [GIT](https://git-scm.com/downloads){:target="\_blank"}
 
 - Once the git is install go to your terminal
 - git --version

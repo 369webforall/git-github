@@ -14,10 +14,6 @@ Download: [Visual Studio Code](https://code.visualstudio.com/download)
 
 Download: [GIT](https://git-scm.com/downloads)
 
-# Learn Git and Github
-
-Learn complete Git and Github
-
 ## Once Installation of git is completed
 
 - Once the git is install go to your terminal
@@ -91,6 +87,13 @@ or
 create different feature branches as you progress in your project. commit regularly.
 
 ![git-branch](/image/github-flow.jpg)
+
+# Create Accout in Github
+
+[Github Link](https://github.com/)
+
+**What is GitHub and why it is used?**
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. This tutorial teaches you GitHub essentials like repositories, branches, commits, and pull requests.
 
 # Generating SSh key
 

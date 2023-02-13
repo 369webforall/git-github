@@ -6,13 +6,19 @@ video Link: [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.co
 
 Article: [The Odin project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
+## Install Below software First
+
+Download: [Nodejs](https://nodejs.org/en/)
+
+Download: [Visual Studio Code](https://code.visualstudio.com/download)
+
+Download: [GIT](https://git-scm.com/downloads)
+
 # Learn Git and Github
 
 Learn complete Git and Github
 
-## Installation of git
-
-Download: [GIT](https://git-scm.com/downloads)
+## Once Installation of git is completed
 
 - Once the git is install go to your terminal
 - git --version

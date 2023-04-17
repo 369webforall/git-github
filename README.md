@@ -74,6 +74,12 @@ or
 
   - (git checkout -b feature2)
 
+- git add .
+- git commit -m "update"
+- git push
+  or
+- git push --set-upstream origin feature2
+
 - switch to parent branch and use below command to merge the feature branch
 - (git merge feature2)
 
@@ -115,3 +121,55 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 - give title
 - paste the key in box
 - click on add SSH button
+
+# To setup linter
+
+- add eslint and prettier extension to your vscode editor.
+
+## initialize your project folder
+
+npm init -y
+
+install the below package.
+
+```
+npm i -D eslint eslint-config-prettier eslint-plugin-prettier prettier
+
+```
+
+now create .eslintrc file in root directory and add below code.
+
+```
+{
+  "extends": [
+    "plugin:prettier/recommended"
+  ],
+
+  "plugins": ["prettier"],
+
+  "rules": {
+    "prettier/prettier": "error"
+  }
+}
+
+```
+
+now create .prettierrc file in root directory and add below code.
+
+```
+{
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false
+}
+```
+
+As the final step, you need to enable formatOnSave in VSCode. You can add the following line to the settings.json file for that:
+
+```
+"editor.formatOnSave": true,
+
+```
+
+[Integrating Prettier and ESLint With VS Code](https://enlear.academy/integrating-prettier-and-eslint-with-vs-code-1d2f6fb53bc9)

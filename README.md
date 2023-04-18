@@ -6,6 +6,8 @@ video Link: [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.co
 
 Article: [The Odin project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
+[linters-config](https://github.com/microverseinc/linters-config)
+
 ## Install Below software First
 
 Download: [Nodejs](https://nodejs.org/en/)

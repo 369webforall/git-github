@@ -6,7 +6,9 @@ video Link: [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.co
 
 Article: [The Odin project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
-[linters-config](https://github.com/microverseinc/linters-config)
+Linter Config: [linters-config](https://github.com/microverseinc/linters-config)
+
+YT Video: [Video - Linter Config](https://youtu.be/2PcEG3d-1r8)
 
 ## Install Below software First
 
